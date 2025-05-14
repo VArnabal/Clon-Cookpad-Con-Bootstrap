@@ -1,0 +1,24 @@
+h1 {
+    font-weight: bold;
+    font-size: 21px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #2e2e2e;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.padding33 {
+    padding-left: 33%;
+    padding-right: 33%
+}
+img {
+    border-radius: 15px;
+    border-top: 0;
+    border-left: 0;
+    display: block;
+    margin: 0 auto;
+}
+#logo {
+    width: 12%;
+    margin-bottom: 10px;
+}
